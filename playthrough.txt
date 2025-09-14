@@ -1,0 +1,13 @@
+get letter
+get crowbar
+get axe
+go down
+go down
+break crates with crowbar
+pull lever
+go out
+attack wolf with axe
+go north
+talk to old man
+
+
